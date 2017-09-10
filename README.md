@@ -2,7 +2,7 @@
 DISCLAIMER:
 //this project is a personal-spaghetti code that i never intended to put it as a public project//
 
-Java-spaghetti project that is used to call lanes while in-game chat in league of legends.
+LoL-Caller is a Java project that is used to call lanes while in-game chat in league of legends.
 The reason behind this project is to make sure that you get the specific lane you want to play in blind games.
 
 Requirements to use:
